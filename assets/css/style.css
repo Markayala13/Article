@@ -43,6 +43,7 @@ body {
   width: 100%;
   max-width: 800px;
   box-sizing: border-box;
+  margin-bottom: 20PX;
 }
 
 .position img {
@@ -69,7 +70,7 @@ body {
   .container {
       padding: 20px;
       width: 100%;
-      background-color: blue;
+      
   }
 
   .position {
@@ -89,7 +90,7 @@ body {
   .container {
       padding-top: 40px;
       width: 90%;
-      background-color: green;
+    
   }
 
   .position {
